@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Chop Flash</string>
+    <string name="title">Chop chop flashlight</string>
+    <string name="subtitle">Make two quick chopping motions (like swinging a hammer twice) to turn the flashlight on or off. Works from the lock screen too.</string>
+    <string name="enable">Enable</string>
+    <string name="sensitivity">Sensitivity</string>
+    <string name="sensitivity_value">Sensitivity: %1$d</string>
+    <string name="sensitivity_hint">Raise it if chops aren\'t detected. Lower it if the light turns on by itself while walking.</string>
+    <string name="screen_off">Work when screen is off</string>
+    <string name="screen_off_hint">Keeps the processor awake so chops are heard while the phone is locked. Uses a bit more battery.</string>
+    <string name="vibrate">Vibrate on toggle</string>
+    <string name="battery">Allow running in background</string>
+    <string name="battery_hint">Recommended: stops Android from killing the listener to save battery.</string>
+    <string name="channel_name">Chop listener</string>
+    <string name="notif_title">Chop chop is on</string>
+    <string name="notif_text">Chop twice to toggle the flashlight</string>
+    <string name="stop">Stop</string>
+    <string name="no_flash">This phone has no flashlight</string>
+    <string name="no_accelerometer">This phone has no accelerometer</string>
+</resources>
